@@ -131,7 +131,7 @@
                                         <img src="images/work_shop.jpg" class="img-responsive" alt="">
                                     </div>
                                     <div class="item">
-                                        <img src="images/pensar_programar.jpg" class="img-responsive" alt="">
+                                        <img src="images/workshop/google_2014.jpg" class="img-responsive" alt="">
                                     </div>
                                 </div>
 
@@ -185,10 +185,6 @@
                                 <p>Contacto</p>
                             </a>
                         </div>
-                        
-                        
-
-                        
                     </div>
                 </div>
             </div>
@@ -238,14 +234,15 @@
                                 <div class="row">
                                     <div class="col-md-6 col-sm-6">
                                         <ul>
-                                            <li><i class="fa fa-check-square-o"></i>Programas de Escritorio</li>
-                                            <li><i class="fa fa-check-square-o"></i>Microsoft Office 15</li>
+                                            <li><i class="fa fa-check-square-o"></i>Programas de Escritorio y Ofim&aacute;tica</li>
                                             <li><i class="fa fa-check-square-o"></i>Motores de Base de Datos (MySQL, Postgres, SQL Server 2012, Oracle)</li>
                                             <li><i class="fa fa-check-square-o"></i>Adobe Creative Cloud (Fireworks, Photoshop)</li>
                                             <li><i class="fa fa-check-square-o"></i>Dominio del idioma inglés Técnico-Intermedio</li>
-                                            <li><i class="fa fa-check-square-o"></i>Desarrollo aplicaciones para entornos Web (Frameworks PHP) y Móviles (Android, IOS)</li>
+                                            <li><i class="fa fa-check-square-o"></i>Desarrollo aplicaciones para entornos Web (Frameworks PHP, CMS, Sitis Web)
+                                            </li>
+                                            <li><i class="fa fa-check-square-o"></i>Desarrollo de APP's Móviles (Android, IOS, Windows Phone)</li>
                                             <li><i class="fa fa-check-square-o"></i>Diseño, Desarrollo e Implementación de Sistemas de
-                                                inteligencia de Negocios (BI) con herramientas OpenSource (PENTAHO)</li>
+                                                inteligencia de Negocios (BI) con herramientas OpenSource.</li>
                                         </ul>
                                         <p>&nbsp;</p>
                                         <h4><a href="https://docs.google.com/document/d/184ZYyA4xeoiY07hTVmrKpr3CTtZ_rsvH52O_QKCccX8/edit?usp=s
@@ -264,20 +261,20 @@
 
                                             <div class="tab-pane active" id="tab-1">
                                                 <p>Aplicar los conocimientos y experiencias adquiridas durante mi formaci&oacute;n Integral
-                                                 brindando alternativas de solución a los problemas de TECNOLOGÍAS DE INFORMACIÓN,
+                                                 brindando &oacute;ptimas alternativas de solución a los problemas de TECNOLOGÍAS DE INFORMACIÓN,
                                                  con compromiso y criterio haciendo la diferencia, con ética profesional y valores cristianos.
                                                 </p>    
                                             </div>
 
 
                                             <div class="tab-pane" id="tab-2">
-                                                <p>Ser reconocido como un profesional ético comprometido con su trabajo y clientes.
+                                                <p>Ser reconocido como un profesional con ética y vocación de servicio.
                                                 </p>
                                             </div>
 
 
                                             <div class="tab-pane" id="tab-3">
-                                                <p>Nacido en el distrito de Chilete - Cajamarca - Per&uacute; </p>
+                                                <p>Nac&iacute; en el distrito de Chilete - Cajamarca - Per&uacute; </p>
                                             </div>
 
                                 </div><!-- /.tab-content -->
@@ -312,6 +309,36 @@
                         </div>
                     </div>
                     <div class="row">
+                        <div class="col-md-6">
+                            <div class="latest-post">
+                                <img src="images/workshop/expotic-2016-arcechava.jpg" class="img-responsive" alt="">
+                                <h4 id="justify"><a href="#">Expotic 2016</a></h4>
+                                <div class="post-details">
+                                    <ul>
+                                        <li><i class="fa fa-university"></i> Lima</li>
+                                        <li><i class="fa fa-calendar"></i> Agosto, 2016</li>
+                                        <li><i class="fa fa-tag"></i> Tecnlogía</li>
+                                    </ul>
+                                </div>
+                                <p></p>
+                                
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="latest-post">
+                                <img src="images/workshop/google_2014.jpg" class="img-responsive" alt="">
+                                <h4 id="justify"><a href="#">Woorkshop Google 2015</a></h4>
+                                <div class="post-details">
+                                    <ul>
+                                        <li><i class="fa fa-university"></i> Lima</li>
+                                        <li><i class="fa fa-calendar"></i> Agosto, 2014</li>
+                                        <li><i class="fa fa-tag"></i> Workshop</li>
+                                    </ul>
+                                </div>
+                                <p></p>
+                                
+                            </div>
+                        </div>
                         <div class="col-md-6">
                             <div class="latest-post">
                                 <img src="images/workshop/google_2014.jpg" class="img-responsive" alt="">
@@ -732,20 +759,10 @@
                                 </div>
                                 <!-- Progress Bar -->
                                 <div class="skill">
-                                    <p>CodeIgniter Framework</p>          
-                                    <div class="progress">         
-                                        <div class="progress-bar" role="progressbar"  data-percentage="75">
-                                            <span class="progress-bar-span" >75%</span>
-                                            <span class="sr-only">75% Complete</span>
-                                        </div>
-                                    </div>  
-                                </div>
-                                <!-- Progress Bar -->
-                                <div class="skill">
-                                    <p>YII Framework 2</p>          
+                                    <p>Phalcon Framework 3.0</p>          
                                     <div class="progress">         
                                         <div class="progress-bar" role="progressbar"  data-percentage="65">
-                                            <span class="progress-bar-span" >65%</span>
+                                            <span class="progress-bar-span" >75%</span>
                                             <span class="sr-only">65% Complete</span>
                                         </div>
                                     </div>  
@@ -797,6 +814,16 @@
                                         <div class="progress-bar" role="progressbar"  data-percentage="30">
                                             <span class="progress-bar-span" >30%</span>
                                             <span class="sr-only">30% Completado</span>
+                                        </div>
+                                    </div>  
+                                </div>
+                                <!-- Progress Bar -->
+                                <div class="skill">
+                                    <p>Administración de Servidores</p>          
+                                    <div class="progress">         
+                                        <div class="progress-bar" role="progressbar"  data-percentage="60">
+                                            <span class="progress-bar-span" >60%</span>
+                                            <span class="sr-only">60% Completado</span>
                                         </div>
                                     </div>  
                                 </div>
@@ -1125,7 +1152,7 @@
                                 <img src="images/portfolio/app_movil_admision_2.jpg" class="img-responsive" alt="...">
                                 <div class="portfolio-details text-center">
                                     <h4>App M&oacute;vil - UPeU</h4>
-                                    <a href="http://www.radioconcierto.pe/" target="_blank"><i class="fa fa-link"></i></a>
+                                    <a href="http://www.upeu.edu.pe/" target="_blank"><i class="fa fa-link"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -1135,7 +1162,7 @@
                                 <img src="images/portfolio/app_movil_admision.jpg" class="img-responsive" alt="...">
                                 <div class="portfolio-details text-center">
                                     <h4>App M&oacute;vil - Admisi&oacute;n UPeU</h4>
-                                    <a href="#"><i class="fa fa-link"></i></a>
+                                    <a href="http://www.upeu.edu.pe/admision"><i class="fa fa-link"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -1165,6 +1192,23 @@
                         </div>
                     </div>
                     <div class="row">
+
+                        <div class="col-md-3 col-sm-6">
+                            <div class="team-member">
+                                <img src="images/team/ggc.jpg" class="img-responsive" alt="">
+                                <div class="team-details">
+                                    <h4>UPeU</h4>
+                                    <div class="designation">Universidad Peruana Uni&oacute;n</div>
+                                    <ul style="text-align: center;">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
                         
                         <div class="col-md-3 col-sm-6">
                             <div class="team-member">
@@ -1309,7 +1353,25 @@
                         </div>
                     </div>
                     <div class="row">
-                        
+                        <div class="col-md-3">
+                            <div class="testimonial">
+                                <img src="images/works/upeu.jpg" class="img-responsive" alt="...">
+                                <h4>UPeU Virtual - PROESAD</h4>
+                                <div class="speech">
+                                    <p>Analista Programador</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3">
+                            <div class="testimonial">
+                                <img src="images/works/inei-peru.jpg" class="img-responsive" alt="...">
+                                <h4>INEI - PER&Uacute;</h4>
+                                <div class="speech">
+                                    <P>Analista Programador</P>
+                                </div>
+                            </div>
+                        </div>
                         <div class="col-md-3">
                             <div class="testimonial">
                                 <img src="images/works/arestic.jpg" class="img-responsive" alt="...">
@@ -1402,7 +1464,7 @@
                         <div class="col-md-4">
                             <div class="footer-social text-center">
                                 <ul>
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="https://www.facebook.com/elvisarcechava" target="_blank"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                                     <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
